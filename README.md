@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 <b>Currently Learning</b>: MERN Stack, Machine Learning, Docker, and AI<br>👀 <b>Interest</b>: Exploring and staying updated with emerging technologies<br>💡 <b>Collaboration</b>: Open to contributing to open-source projects<br>📫 <b>Contact</b>: adiitxa@gmail.com<br>😄 <b>Pronouns:</b> He/Him<br><b>⚡ Fun Fact<b>: Passionate about experimenting with new technologies and innovative solutions!
+🌱 <b>Currently Learning</b>: MERN Stack, Next.js 15, Machine Learning, Docker, and AI<br>👀 <b>Interest</b>: Exploring and staying updated with emerging technologies<br>💡 <b>Collaboration</b>: Open to contributing to open-source projects<br>📫 <b>Contact</b>: adiitxa@gmail.com<br>😄 <b>Pronouns:</b> He/Him<br><b>⚡ Fun Fact<b>: Passionate about experimenting with new technologies and innovative solutions!
 
 
 ## 🌐 Socials:
