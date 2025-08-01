@@ -1,7 +1,17 @@
-# 💫 About Me:
-🌱 <b>Currently Learning</b>: MERN Stack, Next.js 15, Machine Learning, Docker, and AI<br>👀 <b>Interest</b>: Exploring and staying updated with emerging technologies<br>💡 <b>Collaboration</b>: Open to contributing to open-source projects<br>📫 <b>Contact</b>: adiitxa@gmail.com<br>😄 <b>Pronouns:</b> He/Him<br><b>⚡ Fun Fact<b>: Passionate about experimenting with new technologies and innovative solutions!
+## 🚀 Greetings! I'm Aditya.
 
+- 👾 <b>Elevating Skills:</b>  
+  <code>WebDevloper</code> | <code>Machine Learning</code> | <code>DevOps</code> | <code>OpenSource</code>
 
+- ❤️‍🔥 <b>Interests:</b>  
+  Exploring & staying updated with the latest tech trends, frameworks, and tools.
+
+- 🎧 <b>Collaboration:</b>  
+  Actively contributing to open-source projects — always open to team-ups !!!
+  
+- 📧 <b>Connect With Me:</b><br>
+  <b>Email:</b> <a href="mailto:adiitxa@gmail.com">adiitxa@gmail.com</a>
+  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/adiitya__12/?igsh=Y3B3MTZxajd2Zmpi#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-gaikwad-597654256/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/29458667/aditya-gaikwad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/adiitya__12) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://aditya12web.onrender.com/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adiitxa@gmail.com) 
@@ -19,13 +29,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=adiitxa&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
