@@ -26,5 +26,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adiitxa&theme=dark&layout=compact)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=adiitxa&theme=vue-dark&no-bg=true&margin-w=4)
 
-<!-- Working Visitor Count -->
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadiitxa&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=adiitxa&style=flat-square&color=blue)
